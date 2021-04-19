@@ -18,6 +18,12 @@
 * [Chocomint Shop](product/chocomint-shop.md)
 * [Chocomint Server](product/chocomint-server.md)
 
+## Operation Manual
+
+* [Chcomint Factory](operation-manual/chcomint-factory/README.md)
+  * [English](operation-manual/chcomint-factory/english.md)
+  * [日本語](operation-manual/chcomint-factory/japanese.md)
+
 ## Development Guide
 
 * [Contributing](development-guide/contributing.md)
@@ -29,5 +35,6 @@
   * [パートナー提携について](other-langurage/japanese/partnership-ja.md)
   * [コンサルティングついて](other-langurage/japanese/consulting-service-ja.md)
   * [受託開発について](other-langurage/japanese/development-service-ja.md)
+  * [SNSとメディアについて](other-langurage/japanese/social-media-ja.md)
   * [採用について](other-langurage/japanese/hiring-ja.md)
 
