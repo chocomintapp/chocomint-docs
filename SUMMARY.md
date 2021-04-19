@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 * [Motivation](motivation.md)
+* [Products](products/README.md)
+  * [Chocomint Factory](products/chocomint-factory.md)
+  * [Chocomint Shop](products/chocomint-shop.md)
+  * [Chocomint Server](products/chocomint-server.md)
 * [Architecture](architecture.md)
 * [Roadmap](roadmap.md)
 * [Contact Us](contact-us/README.md)
@@ -19,12 +23,6 @@
     * [Development Service](contact-us/english/development-service.md)
     * [Social Media](contact-us/english/social-media.md)
     * [Hiring](contact-us/english/hiring.md)
-
-## Product
-
-* [Chocomint Factory](product/chocomint-factory.md)
-* [Chocomint Shop](product/chocomint-shop.md)
-* [Chocomint Server](product/chocomint-server.md)
 
 ## Operation Manual
 
