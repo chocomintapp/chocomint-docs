@@ -4,6 +4,13 @@
 * [Motivation](motivation.md)
 * [Architecture](architecture.md)
 * [Roadmap](roadmap.md)
+* [Contact Us](contact-us/README.md)
+  * [About BlockBase](contact-us/about-blockbase.md)
+  * [Partnership](contact-us/partnership.md)
+  * [Consulting Service](contact-us/consulting-service.md)
+  * [Development Service](contact-us/development-service.md)
+  * [Social Media](contact-us/social-media.md)
+  * [Hiring](contact-us/hiring.md)
 
 ## Product
 
@@ -15,18 +22,12 @@
 
 * [Contributing](development-guide/contributing.md)
 
-## About Us
-
-* [BlockBase](about-us/blockbase.md)
-* [Service](about-us/service.md)
-* [Contact](about-us/contact.md)
-* [Hiring](about-us/hiring.md)
-
 ## Other Langurage
 
 * [日本語](other-langurage/japanese/README.md)
-  * [パートナー提携について](other-langurage/japanese/partner-ja.md)
-  * [コンサルティングついて](other-langurage/japanese/consulting-ja.md)
-  * [受託開発について](other-langurage/japanese/development-ja.md)
+  * [BlockBaseについて](other-langurage/japanese/about-blockbase-ja.md)
+  * [パートナー提携について](other-langurage/japanese/partnership-ja.md)
+  * [コンサルティングついて](other-langurage/japanese/consulting-service-ja.md)
+  * [受託開発について](other-langurage/japanese/development-service-ja.md)
   * [採用について](other-langurage/japanese/hiring-ja.md)
 
