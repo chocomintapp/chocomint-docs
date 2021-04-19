@@ -5,12 +5,20 @@
 * [Architecture](architecture.md)
 * [Roadmap](roadmap.md)
 * [Contact Us](contact-us/README.md)
-  * [About BlockBase](contact-us/about-blockbase.md)
-  * [Partnership](contact-us/partnership.md)
-  * [Consulting Service](contact-us/consulting-service.md)
-  * [Development Service](contact-us/development-service.md)
-  * [Social Media](contact-us/social-media.md)
-  * [Hiring](contact-us/hiring.md)
+  * [日本語](contact-us/japanese/README.md)
+    * [BlockBaseについて](contact-us/japanese/about-blockbase-ja.md)
+    * [パートナー提携について](contact-us/japanese/partnership-ja.md)
+    * [コンサルティングついて](contact-us/japanese/consulting-service-ja.md)
+    * [受託開発について](contact-us/japanese/development-service-ja.md)
+    * [SNSとメディアについて](contact-us/japanese/social-media-ja.md)
+    * [採用について](contact-us/japanese/hiring-ja.md)
+  * [English](contact-us/english/README.md)
+    * [About BlockBase](contact-us/english/about-blockbase.md)
+    * [Partnership](contact-us/english/partnership.md)
+    * [Consulting Service](contact-us/english/consulting-service.md)
+    * [Development Service](contact-us/english/development-service.md)
+    * [Social Media](contact-us/english/social-media.md)
+    * [Hiring](contact-us/english/hiring.md)
 
 ## Product
 
@@ -27,14 +35,4 @@
 ## Development Guide
 
 * [Contributing](development-guide/contributing.md)
-
-## Other Langurage
-
-* [日本語](other-langurage/japanese/README.md)
-  * [BlockBaseについて](other-langurage/japanese/about-blockbase-ja.md)
-  * [パートナー提携について](other-langurage/japanese/partnership-ja.md)
-  * [コンサルティングついて](other-langurage/japanese/consulting-service-ja.md)
-  * [受託開発について](other-langurage/japanese/development-service-ja.md)
-  * [SNSとメディアについて](other-langurage/japanese/social-media-ja.md)
-  * [採用について](other-langurage/japanese/hiring-ja.md)
 
