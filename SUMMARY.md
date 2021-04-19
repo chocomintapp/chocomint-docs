@@ -9,13 +9,6 @@
 * [Architecture](architecture.md)
 * [Roadmap](roadmap.md)
 * [Contact Us](contact-us/README.md)
-  * [日本語](contact-us/japanese/README.md)
-    * [BlockBaseについて](contact-us/japanese/about-blockbase-ja.md)
-    * [パートナー提携について](contact-us/japanese/partnership-ja.md)
-    * [コンサルティングついて](contact-us/japanese/consulting-service-ja.md)
-    * [受託開発について](contact-us/japanese/development-service-ja.md)
-    * [SNSとメディアについて](contact-us/japanese/social-media-ja.md)
-    * [採用について](contact-us/japanese/hiring-ja.md)
   * [English](contact-us/english/README.md)
     * [About BlockBase](contact-us/english/about-blockbase.md)
     * [Partnership](contact-us/english/partnership.md)
@@ -23,12 +16,19 @@
     * [Development Service](contact-us/english/development-service.md)
     * [Social Media](contact-us/english/social-media.md)
     * [Hiring](contact-us/english/hiring.md)
+  * [日本語](contact-us/japanese/README.md)
+    * [BlockBaseについて](contact-us/japanese/about-blockbase-ja.md)
+    * [パートナー提携について](contact-us/japanese/partnership-ja.md)
+    * [コンサルティングついて](contact-us/japanese/consulting-service-ja.md)
+    * [受託開発について](contact-us/japanese/development-service-ja.md)
+    * [SNSとメディアについて](contact-us/japanese/social-media-ja.md)
+    * [採用について](contact-us/japanese/hiring-ja.md)
 
-## Operation Manual
+## Operation Guide
 
-* [Chcomint Factory](operation-manual/chcomint-factory/README.md)
-  * [English](operation-manual/chcomint-factory/english.md)
-  * [日本語](operation-manual/chcomint-factory/japanese.md)
+* [Chcomint Factory](operation-guide/chcomint-factory/README.md)
+  * [English](operation-guide/chcomint-factory/english.md)
+  * [日本語](operation-guide/chcomint-factory/japanese.md)
 
 ## Development Guide
 
