@@ -36,6 +36,21 @@
     * [FAQ](operation-guide/chcomint-factory/english/faq.md)
   * [日本語](operation-guide/chcomint-factory/japanese/README.md)
     * [FAQ](operation-guide/chcomint-factory/japanese/faq.md)
+* [Chocomint Shop](operation-guide/chocomint-shop/README.md)
+  * [English](operation-guide/chocomint-shop/english/README.md)
+    * [FAQ](operation-guide/chocomint-shop/english/faq.md)
+  * [日本語](operation-guide/chocomint-shop/japanese/README.md)
+    * [FAQ](operation-guide/chocomint-shop/japanese/faq.md)
+* [Chocomint Gift](operation-guide/chocomint-gift/README.md)
+  * [English](operation-guide/chocomint-gift/english/README.md)
+    * [FAQ](operation-guide/chocomint-gift/english/faq.md)
+  * [日本語](operation-guide/chocomint-gift/japanese/README.md)
+    * [FAQ](operation-guide/chocomint-gift/japanese/faq.md)
+* [Chocomint lock](operation-guide/chocomint-lock/README.md)
+  * [English](operation-guide/chocomint-lock/english/README.md)
+    * [FAQ](operation-guide/chocomint-lock/english/faq.md)
+  * [日本語](operation-guide/chocomint-lock/japanese/README.md)
+    * [FAQ](operation-guide/chocomint-lock/japanese/faq.md)
 
 ## Development Guide
 
