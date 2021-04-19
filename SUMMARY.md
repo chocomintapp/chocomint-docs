@@ -32,8 +32,10 @@
 ## Operation Guide
 
 * [Chcomint Factory](operation-guide/chcomint-factory/README.md)
-  * [English](operation-guide/chcomint-factory/english.md)
-  * [日本語](operation-guide/chcomint-factory/japanese.md)
+  * [English](operation-guide/chcomint-factory/english/README.md)
+    * [FAQ](operation-guide/chcomint-factory/english/faq.md)
+  * [日本語](operation-guide/chcomint-factory/japanese/README.md)
+    * [FAQ](operation-guide/chcomint-factory/japanese/faq.md)
 
 ## Development Guide
 
