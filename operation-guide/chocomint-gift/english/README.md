@@ -4,7 +4,7 @@ At Chocogift, you can send your own NFT easily.
 
 {% embed url="https://gift.chocomint.app/" %}
 
-![](../../../.gitbook/assets/image%20%2828%29.png)
+![](../../../.gitbook/assets/image%20%2828%29%20%281%29.png)
 
 ①　Select the Network you want to send your NFT
 

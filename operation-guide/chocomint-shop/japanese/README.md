@@ -4,7 +4,7 @@ Chocoshopでは作成したNFTを販売することができます。
 
 ## ① "NFT Contract"のページを開く
 
-![](../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../.gitbook/assets/image%20%287%29%20%281%29.png)
 
 ## ② Chocoshopへ移動
 
@@ -14,15 +14,15 @@ URLが [https://factory.chocomint.app/137](https://factory.chocomint.app/137/0x4
 
 先頭部分の".chocomint"の前の"factory"の部分を"shop"に変更するとChocoshopのページへ移ります\(下図）
 
-![](../../../.gitbook/assets/image%20%2821%29.png)
+![](../../../.gitbook/assets/image%20%2838%29.png)
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2819%29%20%281%29.png)
 
 所有しているNFTが表示されるので、販売したいものをクリックしてください。
 
 ## ③ 価格を設定する
 
-![](../../../.gitbook/assets/image%20%2840%29.png)
+![](../../../.gitbook/assets/image%20%286%29%20%282%29.png)
 
 この欄に販売したい価格を入力してください。
 
@@ -30,7 +30,7 @@ URLが [https://factory.chocomint.app/137](https://factory.chocomint.app/137/0x4
 
 "Sell"を押してトランザクションを作成してください。
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 
 画面をリロードしてこのように価格が表示されたら成功です。
 

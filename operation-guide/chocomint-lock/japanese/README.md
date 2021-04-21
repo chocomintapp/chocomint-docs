@@ -10,7 +10,7 @@ Chocolockは、限られたNFTを持っている人だけに
 
 このページよりウォレットをつないでサインインしてください。
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../.gitbook/assets/image%20%2836%29%20%281%29.png)
 
 ①　Chocolockに使用するNFTがあるチェーンを選択
 
@@ -28,7 +28,7 @@ Chocolockは、限られたNFTを持っている人だけに
 
 "Chocolock"　の鍵をトークン単体ごとで指定できるようになりました。
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%284%29%20%281%29.png)
 
 パスワードを表示させたいNFTのIDを入力してください。
 
@@ -38,7 +38,7 @@ Chocolockは、限られたNFTを持っている人だけに
 
 Locked Contentに③のURL、Keyに"Password"を得るために必要なNFT Contract Addressが表示されます。
 
-![](../../../.gitbook/assets/image%20%283%29.png)
+![](../../../.gitbook/assets/image%20%283%29%20%281%29.png)
 
 ## ロックを解除する
 
@@ -46,7 +46,7 @@ Locked Contentに③のURL、Keyに"Password"を得るために必要なNFT Cont
 
 下の写真のようにパスワードが表示されます。
 
-![](../../../.gitbook/assets/image%20%2825%29.png)
+![](../../../.gitbook/assets/image%20%2825%29%20%281%29.png)
 
 一方、NFTを所有していないウォレットで"Unlock"を押すとエラーメッセージがでます。
 

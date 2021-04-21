@@ -8,7 +8,7 @@
 
 Please connect your Web3.0 wallet and sign in from this page.
 
-![](../../../.gitbook/assets/image%20%2831%29.png)
+![](../../../.gitbook/assets/image%20%2836%29.png)
 
 ①　Select Network you want to use.
 
@@ -40,7 +40,7 @@ Click the "Lock" button when you are done.
 
 The URL of ③ is displayed in "Locked Content", and the NFT Contract Address required to obtain "Password" is displayed in "Key".
 
-![](../../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image%20%283%29.png)
 
 ## Unlock
 
@@ -48,11 +48,11 @@ Connect your Web 3.0 wallet that have the designated NFT.
 
 When you click the "Unlock" button, the password will be displayed as shown in the picture below.
 
-![](../../../.gitbook/assets/image%20%2823%29.png)
+![](../../../.gitbook/assets/image%20%2825%29.png)
 
 On the other hand, if you don't have the designated NFT, an error message will be appeared.
 
-![](../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../.gitbook/assets/image%20%289%29%20%281%29.png)
 
 Therefore, only those who have the designated NFT can check the password.
 
