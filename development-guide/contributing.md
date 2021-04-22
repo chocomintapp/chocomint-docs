@@ -34,7 +34,7 @@ Before starting any development, we highly encourage you to submit an issue on G
 
 ## Coding rules
 
-We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow some the following rules, and write high quality code. **Let's get started** 💪
+We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow the following rules and write high quality code. **Let's get started** 💪
 
 ### Use the UIKit
 
@@ -97,5 +97,5 @@ Your code is ready to be submitted for review, congratulations🥳
 Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
 {% endhint %}
 
-**Thanks your for helping us making Chocomint even more awesome** ❤
+**Thank you for helping us making Chocomint even more awesome** ❤
 
