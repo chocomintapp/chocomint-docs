@@ -12,5 +12,14 @@
 
 Currently, there is no list display function, there is only the shop page for each NFT.
 
+## Can I sell the NFT not made in Chocofactory?
+
+Yes you can!  
+https://shop.chocomint.app/137/NFT Contract Address/TokenID  
+Enter the above URL to go to the shop page.  
+
+
+## 
+
 
 

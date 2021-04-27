@@ -8,6 +8,10 @@
 
  Images, videos, audios, 3Dfiles\(GLB\), etc.. can be. If an error occurs, please contact us on [discord](https://discord.gg/EaCUBgAu).
 
+## Is there Chocomint token?
+
+There is no Chocomint Token at now!!  Be careful for scam projects.
+
 ## Can I mint more than one?
 
  Chocofactory can mint the multiple NFT at once. If you select multiple checkboxes in the spreadsheet, you can  mint about 300 NFTs at the same time.  
@@ -20,6 +24,10 @@
 ## I can't send my NFT of Gif files.
 
  There is a slight bug, and a transmission method of the NFT of the Gif file created by Chocofactory is limited. I couldn't send from my smartphone or wallet app, and I could confirm the sending only when I used Chocogift on my PC, so please use that method until it is improved. We apologize for the inconvenience.
+
+## How can I contact the team?
+
+You can reach us at [dicord](https://discord.gg/EaCUBgAu)!!!
 
 
 
