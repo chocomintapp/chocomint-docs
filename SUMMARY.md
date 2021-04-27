@@ -32,10 +32,10 @@
 ## Operation Guide
 
 * [Chcomint Factory](operation-guide/chcomint-factory/README.md)
-  * [English](operation-guide/chcomint-factory/english/README.md)
-    * [FAQ](operation-guide/chcomint-factory/english/faq.md)
-  * [日本語](operation-guide/chcomint-factory/japanese/README.md)
-    * [FAQ](operation-guide/chcomint-factory/japanese/faq.md)
+  * [English](operation-guide/chcomint-factory/english-1/README.md)
+    * [FAQ](operation-guide/chcomint-factory/english-1/faq.md)
+  * [日本語](operation-guide/chcomint-factory/japanese-1/README.md)
+    * [FAQ](operation-guide/chcomint-factory/japanese-1/faq.md)
 * [Chocomint Shop](operation-guide/chocomint-shop/README.md)
   * [English](operation-guide/chocomint-shop/english/README.md)
     * [FAQ](operation-guide/chocomint-shop/english/faq.md)

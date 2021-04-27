@@ -1,7 +1,6 @@
 # English
 
-At "Chocoshop", you can sell your own NFT !
-
+At "Chocoshop", you can sell your own NFT !  
 ※Chocoshop works only on Matic at this point.
 
 ## ① Open "NFT Contract" page
@@ -26,10 +25,8 @@ NFTs you own will be displayed, and click the NFT you want to sell.
 
 ![](../../../.gitbook/assets/image%20%286%29%20%283%29.png)
 
-Input the price you want to sell in the this box.
-
-This time, we create on the MATIC Network, so unit is MATIC.
-
+Input the price you want to sell in the this box.  
+This time, we create on the MATIC Network, so unit is MATIC.  
 Click "sell", and sign to the transaction.
 
 ![](../../../.gitbook/assets/image%20%2817%29%20%281%29.png)

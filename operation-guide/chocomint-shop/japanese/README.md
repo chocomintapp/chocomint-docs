@@ -1,6 +1,7 @@
 # 日本語
 
-Chocoshopでは作成したNFTを販売することができます。
+Chocoshopでは作成したNFTを販売することができます。  
+※現在はMATICのみサービスを提供しています。
 
 ## ① "NFT Contract"のページを開く
 
@@ -24,10 +25,8 @@ URLが [https://factory.chocomint.app/137](https://factory.chocomint.app/137/0x4
 
 ![](../../../.gitbook/assets/image%20%286%29%20%282%29.png)
 
-この欄に販売したい価格を入力してください。
-
-今回はMatic上で作成したので価格の単位はMaticになっています。
-
+この欄に販売したい価格を入力してください。  
+今回はMatic上で作成したので価格の単位はMaticになっています。  
 "Sell"を押してトランザクションを作成してください。
 
 ![](../../../.gitbook/assets/image%20%2817%29.png)
