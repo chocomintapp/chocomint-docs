@@ -1,5 +1,13 @@
 # FAQ
 
+## What networks can I use?
+
+ Currently, we provide service to Rinkeby, Ethereum Mainnet, BSC, MATIC. We plan to add other chains as necessary.
+
+## What files can be an NFT?
+
+ Images, videos, audios, 3Dfiles\(GLB\), etc.. can be. If an error occurs, please contact us on [discord](https://discord.gg/EaCUBgAu).
+
 ## Can I mint more than one?
 
  Chocofactory can mint the multiple NFT at once. If you select multiple checkboxes in the spreadsheet, you can  mint about 300 NFTs at the same time.  
