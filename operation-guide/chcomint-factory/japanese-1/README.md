@@ -110,6 +110,39 @@ Mintしたトークンは[Chocoshop](https://shop.chocomint.app/)で販売する
 
 またOpenSeaで販売したい場合、Contract Addressをコピーして、以下のページで貼り付けてsubmitすることで登録することができます。[https://opensea.io/get-listed/step-two](https://opensea.io/get-listed/step-two)
 
+### ☆収益分配の設定方法
+
+#### 【Opensea】
+
+NFTを発行したアドレスで接続し作品ページへ移動してください。
+
+Manage → Edit → sign → commissionと進みます。  
+  
+Commissionの  
+・Percentage fee に手数料の割合  
+・Your payout wallet address に手数料を受け取るアドレス  
+を入力してください  
+
+
+![](../../../.gitbook/assets/image%20%2823%29.png)
+
+#### 【Rarible】
+
+etherscanでNFTのコントラクトアドレスの管理ページを開いてください。
+
+Contractsの13. setDefaultRoyalityから設定することができます。  
+\_royaltyAddressの欄には手数料を受けとるアドレス  
+\_royaltyの欄には手数料  
+を入力してください。  
+また、下の画像のようにアドレスと数字を\[ \]で囲ってください
+
+_手数料は_  
+　入力した数字/10000になります。  
+　500を入力した場合→ 500/10000=5/100→5%  
+　1000だと10%になります。
+
+![](../../../.gitbook/assets/image%20%2821%29.png)
+
 ## MintしたNFTを編集する
 
 MintしたNFTはChocofactory上で編集することが可能です。  
