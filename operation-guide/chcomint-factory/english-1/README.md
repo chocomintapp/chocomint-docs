@@ -107,7 +107,8 @@ Input "Percentage fee" and "Your payout wallet address"
 
 Open the NFT contract address management page with etherscan.
 
-You can set royalty at "setDefaultRoyality"  
+Connect with your web3 wallet.  
+You can set royalty at "setDefaultRoyality" .13  
 Input "royaltyAddress" and "royalty"  
 Also, enclose the address and number in \[ \] as shown in the image below.
 

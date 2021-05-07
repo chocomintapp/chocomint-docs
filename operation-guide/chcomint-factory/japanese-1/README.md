@@ -130,7 +130,8 @@ Commissionの
 
 etherscanでNFTのコントラクトアドレスの管理ページを開いてください。
 
-Contractsの13. setDefaultRoyalityから設定することができます。  
+ContractsからWeb3ウォレットを接続してください。  
+手数料は13. setDefaultRoyalityから設定することができます。  
 \_royaltyAddressの欄には手数料を受けとるアドレス  
 \_royaltyの欄には手数料  
 を入力してください。  
