@@ -112,6 +112,9 @@ Mintしたトークンは[Chocoshop](https://shop.chocomint.app/)で販売する
 
 ### ☆収益分配の設定方法
 
+NFTの二次流通時にロイヤリティを設定することができます。  
+OpenseaとRaribleで方法が異なるのでそれぞれ解説します。
+
 #### 【Opensea】
 
 NFTを発行したアドレスで接続し作品ページへ移動してください。
