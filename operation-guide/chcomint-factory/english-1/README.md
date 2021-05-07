@@ -90,7 +90,32 @@ You can sell your minted token in the [Chocoshop](https://shop.chocomint.app/). 
 Also, if you want to sell in the Opensea, you can sale by copying the Contract Address, pasting it on the following page, and submitting it.  
 [https://opensea.io/get-listed/step-two](https://opensea.io/get-listed/step-two)
 
+### ☆How to set royalty
 
+#### 【Opensea】
+
+Connect with the address that used for minting NFTs, and go to the work page.
+
+Manage → Edit → sign → commission  
+  
+Input "Percentage fee" and "Your payout wallet address"  
+
+
+![](../../../.gitbook/assets/image%20%2823%29.png)
+
+#### 【Rarible】
+
+Open the NFT contract address management page with etherscan.
+
+You can set royalty at "setDefaultRoyality"  
+Input "royaltyAddress" and "royalty"  
+Also, enclose the address and number in \[ \] as shown in the image below.
+
+Royalty will be  "Inputted number / 10000"  
+  The case of 500 → 500/10000 = 5/100 → 5%  
+  If 1000 → 10%
+
+![](../../../.gitbook/assets/image%20%2821%29.png)
 
 ## Edit minted NFT
 
