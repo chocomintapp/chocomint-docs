@@ -1,2 +1,2 @@
-# Chocomint lock
+# Chocomint Lock
 
