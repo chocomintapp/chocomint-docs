@@ -104,11 +104,7 @@ Opensea上だと下図のように表示されます。
 
 ## トークンの販売
 
-Mintしたトークンは[Chocoshop](https://shop.chocomint.app/)で販売することが可能です。こちらをご参照ください。
-
-[Operation Guide Chocoshop　](https://app.gitbook.com/@block-base/s/chocomintapp/operation-guide/chocomint-shop/japanese)
-
-またOpenSeaで販売したい場合、Contract Addressをコピーして、以下のページで貼り付けてsubmitすることで登録することができます。[https://opensea.io/get-listed/step-two](https://opensea.io/get-listed/step-two)
+OpenSeaで販売したい場合、Contract Addressをコピーして、以下のページで貼り付けてsubmitすることで登録することができます。[https://opensea.io/get-listed/step-two](https://opensea.io/get-listed/step-two)
 
 ### ☆収益分配の設定方法
 

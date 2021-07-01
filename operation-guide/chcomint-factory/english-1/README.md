@@ -83,11 +83,7 @@ When you click Play button, the soda animation is played.
 
 ## Sell your Token
 
-You can sell your minted token in the [Chocoshop](https://shop.chocomint.app/). Please see this page.
-
-[Operation Guide Chocoshop　](https://app.gitbook.com/@block-base/s/chocomintapp/operation-guide/chocomint-shop/japanese)
-
-Also, if you want to sell in the Opensea, you can sale by copying the Contract Address, pasting it on the following page, and submitting it.  
+If you want to sell in the Opensea, you can sale by copying the Contract Address, pasting it on the following page, and submitting it.  
 [https://opensea.io/get-listed/step-two](https://opensea.io/get-listed/step-two)
 
 ### ☆How to set royalty
