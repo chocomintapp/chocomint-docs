@@ -1,5 +1,7 @@
 # English
 
+※**This is a beta version of the service. Please use this service at your own risk.**
+
 "Chocolock" is a service that can display the password to those who have the designated NFT.
 
 ## Lock

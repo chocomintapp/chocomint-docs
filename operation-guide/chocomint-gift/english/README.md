@@ -1,6 +1,8 @@
 # English
 
-At Chocogift, you can send your own NFT easily.
+※**This is a beta version of the service. Please use this service at your own risk.**
+
+With Chocogift, you can send your own NFT easily.
 
 {% embed url="https://gift.chocomint.app/" %}
 

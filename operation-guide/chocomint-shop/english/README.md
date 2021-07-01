@@ -1,5 +1,7 @@
 # English
 
+## **※This service is currently in maintenance mode and is not available. Please wait for a while as we will re-release it as v2 with improved usability.**
+
 At "Chocoshop", you can sell your own NFT !  
 ※Chocoshop works only on Matic at this point.
 
