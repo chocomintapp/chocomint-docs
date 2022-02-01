@@ -10,43 +10,42 @@
 
 Please connect your Web3.0 wallet and sign in from this page.
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](<../../../.gitbook/assets/image (36).png>)
 
-①　Select Network you want to use.  
-②　Input NFT contract address.  
-③　Input the URL of an external service that can be password-protected.  
+①　Select Network you want to use.\
+②　Input NFT contract address.\
+③　Input the URL of an external service that can be password-protected.\
 ④　Input a password used for ③.
 
-☆New feature☆  
+☆New feature☆\
 　You can now specify the "Chocolock" key for each token.
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![](<../../../.gitbook/assets/image (33).png>)
 
-Input the Token IDs  
-Only those who have the NFT of the Token IDs entered here can check the password.  
+Input the Token IDs\
+Only those who have the NFT of the Token IDs entered here can check the password.\
 If left brank, everyone who has the NFT of the designated NFT Contract address can check the password.
 
-Click the "Lock" button when you are done.  
+Click the "Lock" button when you are done.\
 The URL of ③ is displayed in "Locked Content", and the NFT Contract Address required to obtain "Password" is displayed in "Key".
 
 Share the URL of this page. The sharing procedure will be easier if you put the URL in the designated NFTs description.
 
 
 
-![](../../../.gitbook/assets/image%20%283%29.png)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 ## Unlock
 
-Connect your Web 3.0 wallet that have the designated NFT.  
+Connect your Web 3.0 wallet that have the designated NFT.\
 When you click the "Unlock" button, the password will be displayed as shown in the picture below.
 
-![](../../../.gitbook/assets/image%20%2825%29.png)
+![](<../../../.gitbook/assets/image (25) (1).png>)
 
 On the other hand, if you don't have the designated NFT, an error message will be appeared.
 
-![](../../../.gitbook/assets/image%20%289%29%20%281%29.png)
+![](<../../../.gitbook/assets/image (9) (1).png>)
 
 Therefore, only those who have the designated NFT can check the password.
 
 For more info, please contact us on [\*\*dicord](https://discord.gg/EaCUBgAu)!\*\*
-

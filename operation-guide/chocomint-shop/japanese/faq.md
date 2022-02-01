@@ -14,8 +14,6 @@
 
 ## Chocofactory産でないNFTも販売できますか？
 
-販売できます。https://shop.chocomint.app/137/”NFTコントラクトアドレス”/TokenID  
+販売できます。https://shop.chocomint.app/137/”NFTコントラクトアドレス”/TokenID\
 でそのNFTの出品ページへ移動することができます。
-
-
 

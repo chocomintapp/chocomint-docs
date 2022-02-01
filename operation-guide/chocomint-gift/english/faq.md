@@ -4,7 +4,5 @@
 
 Yes you can. You input chain ID, Contract Address, Token ID as same as a document, you can send it.
 
-## 
-
-
+##
 

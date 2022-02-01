@@ -1,6 +1,5 @@
 # Architecture
 
-![](.gitbook/assets/chocomintapp.jpg)
+![](.gitbook/assets/Chocomintapp.jpg)
 
-![&quot;Choco Pro&quot;--- application for enterprises](.gitbook/assets/image%20%2830%29.png)
-
+!["Choco Pro"--- application for enterprises](<.gitbook/assets/image (45).png>)

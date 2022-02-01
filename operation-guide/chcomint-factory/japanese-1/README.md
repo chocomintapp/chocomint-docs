@@ -1,5 +1,5 @@
 ---
-description: 'Deploy your own NFT contract on Ethereum, BSC and Polygon(Matic)'
+description: Deploy your own NFT contract on Ethereum, BSC and Polygon(Matic)
 ---
 
 # 日本語
@@ -8,29 +8,29 @@ description: 'Deploy your own NFT contract on Ethereum, BSC and Polygon(Matic)'
 
 ### 1.Chocofactoryとwalletをつなぐ
 
-[https://factory.chocomint.app/](https://factory.chocomint.app/) を開き、ページ右上の"Connect"をクリック。  
+[https://factory.chocomint.app/](https://factory.chocomint.app) を開き、ページ右上の"Connect"をクリック。\
 接続したいウォレットを選択し、署名します。
 
 [https://factory.chocomint.app/mypage](https://factory.chocomint.app/mypage)
 
-![](../../../.gitbook/assets/image%20%2842%29.png)
+![](<../../../.gitbook/assets/image (42).png>)
 
 無事接続が完了すると、右上に接続しているウォレットのアドレスが表示されます。
 
-![](../../../.gitbook/assets/image%20%2826%29.png)
+![](<../../../.gitbook/assets/image (1).png>)
 
 ### 2.MypageにてNew ボタンを押し、createページへ
 
 {% embed url="https://chocofactory-staging.web.app/mypage" %}
 
-![](../../../.gitbook/assets/image%20%2827%29.png)
+![](<../../../.gitbook/assets/image (2).png>)
 
 ### 3.コントラクト情報の作成
 
-![](../../../.gitbook/assets/image%20%2820%29.png)
+![](<../../../.gitbook/assets/image (3).png>)
 
-①　作成したいネットワークを選択  
-        現在はRinkeby・BSC・Matic・Mainnetに対応しています。  
+①　作成したいネットワークを選択\
+&#x20;       現在はRinkeby・BSC・Matic・Mainnetに対応しています。\
 　　※今回はMaticで作成していきます。
 
 ②　Name, Symbolの入力
@@ -39,17 +39,21 @@ description: 'Deploy your own NFT contract on Ethereum, BSC and Polygon(Matic)'
 
 右上のSaveをクリックし、署名をすればコントラクトの完成です。
 
+**※ 一度設定したName (コントラクト名）とSymbol(シンボル)は後から編集することはできません。**
+
 ## コントラクトのデプロイ
 
-![](../../../.gitbook/assets/image%20%2810%29.png)
+![](<../../../.gitbook/assets/image (4).png>)
 
 ”NFT Contracts”ページにて、右上の"Deploy"ボタンを押し、トランザクションを発行します。
 
 ウォレット画面が出てくるので署名してください。
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+![](<../../../.gitbook/assets/image (5).png>)
 
 このメッセージが出たらトランザクションの発行に成功です。
+
+"Check"　ボタンをクリックするとetherscenでトランザクションを確認できます。
 
 #### ※デプロイとは
 
@@ -59,48 +63,52 @@ description: 'Deploy your own NFT contract on Ethereum, BSC and Polygon(Matic)'
 
 次に、作成したコントラクト上にトークン（NFT）を登録していきます。
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](<../../../.gitbook/assets/image (6).png>)
 
 1.New ボタンを押し、createページへ
 
 1. TokenID・Name・Description・Image・Animation URLを入力し、Saveを押します。
 
-![](../../../.gitbook/assets/image%20%2839%29.png)
+![](<../../../.gitbook/assets/image (7).png>)
 
-Token ID　　    ：管理番号のようなものです。今回は一つ目なので１になってます。  
-Name　　　     ：NFTの名前です  
-Description　   ：NFTの説明を加えることができます。  
-Image　　　　：NFTにしたい画像、動画を入れられます。  
-Animation URL ：画像、動画、オーディオ、 3Dファイル（GLB）などを入れられます。  
+Token ID　　    ：管理番号のようなものです。今回は一つ目なので１になってます。\
+Name　　　     ：NFTの名前です\
+Description　   ：NFTの説明を加えることができます。\
+Image　　　　：NFTにしたい画像、動画を入れられます。\
+Animation URL ：画像、動画、オーディオ、 3Dファイル（GLB）などを入れられます。\
 　　　　　　　　現状10MBまでは動作確認がでいています。
 
 Opensea上だと下図のように表示されます。
 
-![](../../../.gitbook/assets/image%20%2824%29.png)
+![](<../../../.gitbook/assets/image (8).png>)
 
-※サムネ付き動画の場合  
+※サムネ付き動画の場合\
 　作成するNFTにサムネイル等付けたい場合は下図のようにしてください。
 
-![](../../../.gitbook/assets/image%20%2844%29.png)
+![](<../../../.gitbook/assets/image (9).png>)
 
 マーケット上では"Image"のライムの画像が表示され、右下の再生マークを押すとソーダのアニメーションが流れるようになります。
 
-![](../../../.gitbook/assets/image%20%2829%29.png)
+![](<../../../.gitbook/assets/image (10).png>)
+
+#### ※ 追加機能　Trait\_Type（所有特性）
+
+
 
 ## トークンのMint（発行）
 
 登録したトークンを実際に発行していきます。
 
-![](../../../.gitbook/assets/image%20%2832%29.png)
+![](<../../../.gitbook/assets/image (11).png>)
 
 1. NFT Contractsページにて、mintしたいトークンを選択します。チェックボックスにチェックをしてmintするトークンを選択してください。複数選択による一括発行が可能です。
 2. "Mint"ボタンを押し、トランザクションを発行します。
-3. ウォレットの画面に切り替わるので承認してください。（ガス代がかかります。\)
+3. ウォレットの画面に切り替わるので承認してください。（ガス代がかかります。)
 4. ページを再読み込みし、"Minted"の欄にチェックがついていたら成功です。
 
 [Opensea](https://opensea.io/account)  上などで自分のNFTを確認できます。
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![](<../../../.gitbook/assets/image (12).png>)
 
 ## トークンの販売
 
@@ -108,54 +116,53 @@ OpenSeaで販売したい場合、Contract Addressをコピーして、以下の
 
 ### ☆収益分配の設定方法
 
-NFTの二次流通時にロイヤリティを設定することができます。  
+NFTの二次流通時にロイヤリティを設定することができます。\
 OpenseaとRaribleで方法が異なるのでそれぞれ解説します。
 
 #### 【Opensea】
 
 NFTを発行したアドレスで接続し作品ページへ移動してください。
 
-Manage → Edit → sign → commissionと進みます。  
-  
-Commissionの  
-・Percentage fee に手数料の割合  
-・Your payout wallet address に手数料を受け取るアドレス  
-を入力してください  
+Manage → Edit → sign → commissionと進みます。\
+\
+Commissionの\
+・Percentage fee に手数料の割合\
+・Your payout wallet address に手数料を受け取るアドレス\
+を入力してください\
 
 
-![](../../../.gitbook/assets/image%20%2823%29.png)
+![](<../../../.gitbook/assets/image (47).png>)
 
 #### 【Rarible】
 
 etherscanでNFTのコントラクトアドレスの管理ページを開いてください。
 
-ContractsからWeb3ウォレットを接続してください。  
-手数料は13. setDefaultRoyalityから設定することができます。  
-\_royaltyAddressの欄には手数料を受けとるアドレス  
-\_royaltyの欄には手数料  
-を入力してください。  
-また、下の画像のようにアドレスと数字を\[ \]で囲ってください
+ContractsからWeb3ウォレットを接続してください。\
+手数料は13. setDefaultRoyalityから設定することができます。\
+\_royaltyAddressの欄には手数料を受けとるアドレス\
+\_royaltyの欄には手数料\
+を入力してください。\
+また、下の画像のようにアドレスと数字を\[ ]で囲ってください
 
-_手数料は_  
-　入力した数字/10000になります。  
-　500を入力した場合→ 500/10000=5/100→5%  
+_手数料は_\
+__　入力した数字/10000になります。\
+　500を入力した場合→ 500/10000=5/100→5%\
 　1000だと10%になります。
 
-![](../../../.gitbook/assets/image%20%2821%29.png)
+![](<../../../.gitbook/assets/image (48).png>)
 
 ## MintしたNFTを編集する
 
-MintしたNFTはChocofactory上で編集することが可能です。  
+MintしたNFTはChocofactory上で編集することが可能です。\
 NFT Contractページ右側の"Grid"ボタンを押してください。
 
-![](../../../.gitbook/assets/image%20%2848%29.png)
+![](<../../../.gitbook/assets/image (13).png>)
 
 このボダンを押すと作成したNFTコンテンツを確認することができます。
 
-![](../../../.gitbook/assets/image%20%2812%29.png)
+![](<../../../.gitbook/assets/image (14).png>)
 
-編集したいコンテンツを選択し、編集することが可能です。  
+編集したいコンテンツを選択し、編集することが可能です。\
 編集完了したら"Save"ボタンを押すと変更が反映されます。
 
-不明な点があれば[discord](https://discord.gg/EaCUBgAu) でお問い合わせください
-
+不明な点があれば[discord](https://discord.com/invite/XkZngBzq) でお問い合わせください

@@ -10,26 +10,23 @@ Before starting any development, we highly encourage you to submit an issue on G
 
 ## Setup your dev environment
 
-1. Fork the repository and an [add upstream remote](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork). E.g.
+1.  Fork the repository and an [add upstream remote](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork). E.g.
 
-   ```bash
-   $ git remote add upstream git@github.com:chocomintapp/chocofactory.git
-   ```
+    ```bash
+    $ git remote add upstream git@github.com:chocomintapp/chocofactory.git
+    ```
+2.  Make sure you have the latest version of the default branch ( `develop` or `main` )
 
-2. Make sure you have the latest version of the default branch \( `develop` or `main` \)
+    ```bash
+    $ git checkout develop
+    $ git pull upstream develop
+    ```
+3.  Create your own branch and install dependencies
 
-   ```bash
-   $ git checkout develop
-   $ git pull upstream develop
-   ```
-
-3. Create your own branch and install dependencies
-
-   ```bash
-   $ git checkout -b branch-name
-   $ yarn
-   ```
-
+    ```bash
+    $ git checkout -b branch-name
+    $ yarn
+    ```
 4. Happy coding 🎉
 
 ## Coding rules
@@ -55,7 +52,7 @@ const NewButtonVariant = styled(Button)`
 
 ### Use the tools !
 
-Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
+Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
 
 {% hint style="warning" %}
 Make sure your code is formatted with Prettier, and is free from any ESLint error before you submit a pull request.
@@ -63,25 +60,25 @@ Make sure your code is formatted with Prettier, and is free from any ESLint erro
 
 ### Some good practices
 
-* Keep components as small and ["dumb"](https://en.wikipedia.org/wiki/Pure_function) as possible.
+* Keep components as small and ["dumb"](https://en.wikipedia.org/wiki/Pure\_function) as possible.
 * Use [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
 * Keep in mind that your code will be read and maintained by several other developers. Make it as clear and easy to update as possible.
 
-## Committing <a id="committing"></a>
+## Committing <a href="#committing" id="committing"></a>
 
 Our commit messages follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
 
-| Type | Description |
-| :--- | :--- |
-| **build** | Changes that affect the build system or external dependencies \(example scopes: gulp, broccoli, npm\) |
-| **ci** | Changes to our CI configuration files and scripts \(example scopes: Travis, Circle, BrowserStack, SauceLabs\) |
-| **docs** | Documentation only changes |
-| **feat** | A new feature |
-| **fix** | A bug fix |
-| **perf** | A code change that improves performance |
-| **refactor** | A code change that neither fixes a bug nor adds a feature |
-| **style** | Changes that do not affect the meaning of the code \(white-space, formatting, missing semi-colons, etc\) |
-| **test** | Adding missing tests or correcting existing tests |
+| Type         | Description                                                                                                 |
+| ------------ | ----------------------------------------------------------------------------------------------------------- |
+| **build**    | Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)         |
+| **ci**       | Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs) |
+| **docs**     | Documentation only changes                                                                                  |
+| **feat**     | A new feature                                                                                               |
+| **fix**      | A bug fix                                                                                                   |
+| **perf**     | A code change that improves performance                                                                     |
+| **refactor** | A code change that neither fixes a bug nor adds a feature                                                   |
+| **style**    | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      |
+| **test**     | Adding missing tests or correcting existing tests                                                           |
 
 _More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_​_
 
@@ -98,4 +95,3 @@ Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-reques
 {% endhint %}
 
 **Thank you for helping us making Chocomint even more awesome** ❤
-

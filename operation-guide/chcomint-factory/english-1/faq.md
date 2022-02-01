@@ -2,11 +2,11 @@
 
 ## What networks can I use?
 
- Currently, we provide service to Rinkeby, Ethereum Mainnet, BSC, MATIC. We plan to add other chains as necessary.
+&#x20;Currently, we provide service to Rinkeby, Ethereum Mainnet, BSC, MATIC. We plan to add other chains as necessary.
 
 ## What files can be an NFT?
 
- Images, videos, audios, 3Dfiles\(GLB\), etc.. can be. If an error occurs, please contact us on [discord](https://discord.gg/EaCUBgAu).
+&#x20;Images, videos, audios, 3Dfiles(GLB), etc.. can be. If an error occurs, please contact us on [discord](https://discord.com/invite/XkZngBzq).
 
 ## Is there Chocomint token?
 
@@ -14,20 +14,22 @@ There is no Chocomint Token at now!!  Be careful for scam projects.
 
 ## Can I mint more than one?
 
- Chocofactory can mint the multiple NFT at once. If you select multiple checkboxes in the spreadsheet, you can  mint about 300 NFTs at the same time.  
- The case of ERC1155, our service is not currently supported, because Japanese environment of that has not prepared yet.
+&#x20;Chocofactory can mint the multiple NFT at once. If you select multiple checkboxes in the spreadsheet, you can  mint about 300 NFTs at the same time.\
+&#x20;The case of ERC1155, our service is not currently supported, because Japanese environment of that has not prepared yet.
 
 ## How can I delete the NFT?
 
- In the case of Mainnet, self-burning of your NFT can be done from Etherscan, but transaction fees will be charged. Also, in the case of Matic and BSC, the self-burn function has not yet been do from the frontend. Unless there is a special reason such as the limited version NFT, we recommend only modifying without deleting because of cost.
+&#x20;In the case of Mainnet, self-burning of your NFT can be done from Etherscan, but transaction fees will be charged. Also, in the case of Matic and BSC, the self-burn function has not yet been do from the frontend. Unless there is a special reason such as the limited version NFT, we recommend only modifying without deleting because of cost.
 
 ## I can't send my NFT of Gif files.
 
- There is a slight bug, and a transmission method of the NFT of the Gif file created by Chocofactory is limited. I couldn't send from my smartphone or wallet app, and I could confirm the sending only when I used Chocogift on my PC, so please use that method until it is improved. We apologize for the inconvenience.
+&#x20;There is a slight bug, and a transmission method of the NFT of the Gif file created by Chocofactory is limited. I couldn't send from my smartphone or wallet app, and I could confirm the sending only when I used Chocogift on my PC, so please use that method until it is improved. We apologize for the inconvenience.
+
+## I can't see my image or video on Opensea.
+
+&#x20;It takes a while for images and videos to load. If it does not load after few hours, please contact us via [discord](https://discord.com/invite/XkZngBzq)
 
 ## How can I contact the team?
 
-You can reach us at [dicord](https://discord.gg/EaCUBgAu)!!!
-
-
+You can reach us at [dicord](https://discord.com/invite/XkZngBzq)!!!
 
