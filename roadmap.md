@@ -17,3 +17,4 @@ Our roadmap for the coming months includes the following new advanced features:
 * Develop applications that enable NFT holders to create their limited content.
 * Integrate DID and VC systems to make NFT more useful and verifiable in the real world.
 
+![](<.gitbook/assets/image (52).png>)
