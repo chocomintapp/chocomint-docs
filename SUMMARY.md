@@ -14,6 +14,8 @@
 
 ## Development Guide
 
-* [Contracts](development-guide/contracts.md)
+* [Contracts](development-guide/contracts/README.md)
+  * [Chocofactory(v1)](development-guide/contracts/chocofactory-v1.md)
+  * [Chocomint V2](development-guide/contracts/chocomint-v2.md)
 * [Architecture](development-guide/architecture.md)
 * [Contributing](development-guide/contributing.md)
